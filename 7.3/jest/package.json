@@ -1,5 +1,5 @@
 {
-  "name": "jsaqa_3",
+  "name": "qamid99",
   "version": "1.0.0",
   "description": "jest test",
   "main": "index.js",
@@ -11,7 +11,7 @@
     "test",
     "jsaqa"
   ],
-  "author": "omelnikova",
+  "author": "gorenkomar",
   "license": "ISC",
   "devDependencies": {
     "jest": "^27.3.1"
